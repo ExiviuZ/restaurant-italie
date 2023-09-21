@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restaurant-italie/static/css/main.1794f28a.css",
+    "main.js": "/restaurant-italie/static/js/main.19ba4a88.js",
+    "index.html": "/restaurant-italie/index.html",
+    "main.1794f28a.css.map": "/restaurant-italie/static/css/main.1794f28a.css.map",
+    "main.19ba4a88.js.map": "/restaurant-italie/static/js/main.19ba4a88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1794f28a.css",
+    "static/js/main.19ba4a88.js"
+  ]
+}
